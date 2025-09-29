@@ -4,6 +4,15 @@
 **Agora RTC SDK**. It allows users to create or join video chat rooms, turn their camera 
 and microphone on/off, and see other participants in real time.
 
+### Main Page
+![Main](screenshots/main_page.png)
+
+### Videochat Page (1 user)
+![Videochat](screenshots/videochat_page1.png)
+
+### Videochat Page (2 and more users)
+![Videochat](screenshots/videochat_page2.png)
+
 ---
 
 ## Features
